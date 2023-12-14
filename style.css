@@ -1,0 +1,262 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+header {
+  width: 100%;
+  height: 100px;
+  background-color: #fff;
+  justify-content: center;
+  padding-top: 20px;
+
+}
+
+img {
+  height: 60px;
+  object-fit: contain;
+  margin-left: 20px;
+}
+
+h2 {
+  font-size: 24px !important;
+  text-align: center;
+  padding-top: 15px;
+}
+
+span {
+  color: red;
+}
+
+.navbar {
+  background-color: black;
+}
+
+.navbar ul {
+  text-align: center;
+  padding-left: 375px;
+  padding-top: 13px;
+  color: #fff;
+}
+
+.navbar ul a {
+  margin-left: 40px;
+  font-size: 18px;
+  text-align: center;
+}
+
+.people {
+  width: 100%;
+  height: 100%;
+  margin-top: 34px;
+  padding-right: 0px;
+  margin-left: 0px;
+}
+
+.justify-content-end {
+  margin-top: -700px !important;
+  margin-right: 40px !important;
+  justify-content: flex-end !important;
+  width: 1472px;
+  height: 680px;
+}
+
+button {
+  width: 50%;
+  margin-top: 40px !important;
+}
+
+.text-register {
+  padding-top: 15px;
+}
+
+.bg-white {
+  border-radius: 5px;
+}
+
+.col-12 h2 {
+  padding-top: 150px;
+  font-size: 42px !important;
+}
+
+.col-xl-6 {
+  text-align: center;
+}
+
+.col-xl-6 img {
+  width: 550px;
+  height: 350px;
+  margin-left: -180px;
+  margin-bottom: 20px;
+}
+
+.col-xl-6 h4 {
+  width: 4px;
+  height: 94px;
+  background-color: rgb(0, 0, 0);
+  margin-top: -170px !important;
+}
+
+.col-xl-6 p {
+  margin-top: 20px;
+  margin-left: -15px;
+
+}
+
+.backgroud-header2 {
+  background-color: #F8F8F8;
+  margin: 100px 0 !important;
+  padding-bottom: 100px;
+}
+
+.col-xl-3 {
+  background-color: rgb(255, 255, 255);
+  margin-left: 30px;
+}
+
+h4 {
+  margin-left: 110px;
+  margin-top: 40px;
+}
+
+.col-xl-3 .icon-body {
+  height: 60px;
+  object-fit: contain;
+  margin-left: 135px;
+}
+
+.col-12 {
+  justify-items: center;
+}
+
+.col-12 h2 {
+  padding-bottom: 90px;
+}
+
+.col-xl-8 {
+  display: inline-block;
+}
+
+.col-xl-2 {
+  margin-left: 170px;
+  margin-right: 100px;
+}
+
+.col-xl-2 img {
+  width: 150px;
+  /* Đặt chiều rộng của ảnh */
+  height: 150px;
+  /* Đặt chiều cao của ảnh */
+  border-radius: 50%;
+  /* Tạo hình tròn */
+  object-fit: cover;
+  /* Đảm bảo ảnh không bị biến dạng */
+}
+
+.coppy-title {
+  margin: 0;
+  padding: 0;
+  margin-left: 414px;
+  margin-top: -190px;
+}
+
+.col-xl-4 {
+  max-width: 55% !important;
+  margin: 0;
+  padding: 0;
+  margin-left: 407px;
+  margin-top: -133px;
+  border-radius: 5px;
+  border: 2px solid #DDD;
+  background: #FFF;
+}
+
+.col-xl-4 h3 {
+  font-size: 18px;
+}
+
+.image-people2 {
+  margin: 0;
+  padding: 0;
+  margin-left: 638px;
+  margin-top: -204px;
+
+}
+
+.svg {
+  margin-left: 393px;
+  margin-top: -71px;
+}
+
+.background2 {
+  width: 100%;
+  height: 100%;
+  margin-top: 34px;
+  padding-right: 0px;
+  margin-left: 0px;
+  opacity: 0.3;
+}
+
+.content {
+  margin-top: -920px !important;
+  padding-top: 0;
+  margin-left: 95px;
+}
+
+.content h2 {
+  margin-bottom: 100px;
+  margin-left: -197px;
+}
+
+.content p {
+  margin-left: 110px;
+  margin-top: 20px;
+}
+
+.content h5 {
+  width: 1155px;
+  height: 2px;
+  background-color: rgb(0, 0, 0);
+  margin-left: 109px;
+  margin-top: 30px !important;
+  margin-bottom: 30px !important;
+}
+
+.content h4 {
+  font-size: 18px;
+}
+
+.logo-end {
+  width: 100%;
+  height: auto;
+  margin-left: 20px !important;
+  margin-top: 80px !important;
+}
+
+.logo-end img {
+  padding-top: 20px;
+}
+
+.footer-end {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: #333;
+  padding: 10px;
+  display: flex;
+}
+
+
+.logo-right {
+  float: left;
+  width: 240px;
+  margin-left: 669px;
+}
+
+.p-footer {
+  margin-left: 711px;
+  margin-top: -42px !important;
+  color: #fff;
+  z-index: 1;
+}
